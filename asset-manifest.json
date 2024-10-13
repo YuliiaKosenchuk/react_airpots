@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/react_airpots/static/css/main.31d6cfe0.css",
-    "main.js": "/react_airpots/static/js/main.6550c9e6.js",
+    "main.js": "/react_airpots/static/js/main.ff4a0d5b.js",
+    "static/media/logo_apple.svg": "/react_airpots/static/media/logo_apple.b2d3849dccacad2d7f085f755c14ac3a.svg",
     "index.html": "/react_airpots/index.html",
-    "main.6550c9e6.js.map": "/react_airpots/static/js/main.6550c9e6.js.map"
+    "main.ff4a0d5b.js.map": "/react_airpots/static/js/main.ff4a0d5b.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.6550c9e6.js"
+    "static/js/main.ff4a0d5b.js"
   ]
 }
