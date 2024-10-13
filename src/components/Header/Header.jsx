@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import "./Header.scss";
-import logoApple from "../../images/logo_apple.svg";
+// import logoApple from "../../images/logo_apple.svg";
 
 function Header() {
   //some//
@@ -10,7 +10,7 @@ function Header() {
       <div className="container">
         <div className="header__top">
           <a href="#" className="logo">
-            <img src={logoApple} alt="logo" />
+            {/* <img src={logoApple} alt="logo" /> */}
           </a>
           <nav className="menu">
             <ul className="menu__list">
