@@ -1,0 +1,11 @@
+.header {
+  min-height: 100vh;
+  position: relative;
+}
+
+.header__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 40px;
+}

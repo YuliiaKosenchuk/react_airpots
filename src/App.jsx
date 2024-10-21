@@ -2,7 +2,7 @@ import "./App.scss";
 import "./components/Header/Header";
 import Header from "./components/Header/Header";
 
-function App() {
+const App = () => {
 
   return (
     <div className="App">

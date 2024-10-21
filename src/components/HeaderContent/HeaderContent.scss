@@ -1,0 +1,46 @@
+.header__content--img {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.header__content--img::before {
+  content: "";
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  background: linear-gradient(180deg, #cadbeb 0%, rgba(235, 235, 235, 0) 100%);
+  z-index: -2;
+}
+
+.title {
+  font-size: 210px;
+  font-weight: 700;
+  position: absolute;
+  padding-top: 110px;
+  text-align: center;
+}
+
+.title--pod {
+  position: relative;
+  z-index: -1;
+}
+
+.title--s {
+  display: inline-block;
+  transform: translateY(90px);
+}
+
+.title--m {
+  display: inline-block;
+  transform: translate(-15px, 290px);
+}
+
+.title--ax {
+  position: relative;
+  display: inline-block;
+  transform: translate(-95px, 425px);
+  z-index: -1;
+}
