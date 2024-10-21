@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react_airpots/static/css/main.31d6cfe0.css",
-    "main.js": "/react_airpots/static/js/main.ff4a0d5b.js",
+    "main.css": "/react_airpots/static/css/main.226d1c71.css",
+    "main.js": "/react_airpots/static/js/main.3de47184.js",
+    "static/media/airpods-blue.png": "/react_airpots/static/media/airpods-blue.f7c3d17199e98b823ff9.png",
     "static/media/logo_apple.svg": "/react_airpots/static/media/logo_apple.b2d3849dccacad2d7f085f755c14ac3a.svg",
     "index.html": "/react_airpots/index.html",
-    "main.ff4a0d5b.js.map": "/react_airpots/static/js/main.ff4a0d5b.js.map"
+    "main.226d1c71.css.map": "/react_airpots/static/css/main.226d1c71.css.map",
+    "main.3de47184.js.map": "/react_airpots/static/js/main.3de47184.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.ff4a0d5b.js"
+    "static/css/main.226d1c71.css",
+    "static/js/main.3de47184.js"
   ]
 }
